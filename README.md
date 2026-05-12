@@ -1,7 +1,11 @@
-# Домашнее задание «Командная работа в Git & GitHub»
+# Домашнее задание к лекции «Командная работа в Git & GitHub. Часть 2»
 
-Готовые задачи:
+Готовая домашняя работа:
 
-1. Импорт существующего проекта: https://github.com/samurajius979-dot/git-2-homeworks-import
-2. Откат изменений через `git revert`: https://github.com/samurajius979-dot/git-2-homeworks-revert
-3. Разрешение конфликта при `push/pull`: https://github.com/samurajius979-dot/git-2-homeworks-fork
+1. Работа с Issues: https://github.com/netology-code/git-2-homeworks-issues/issues/9395
+
+2. Первый Pull Request: https://github.com/netology-code/git-2-homeworks-pr/pull/9406
+
+3. Публикация проекта на GitHub Pages: https://samurajius979-dot.github.io/github-pages-portfolio/
+
+Репозиторий с портфолио для GitHub Pages: https://github.com/samurajius979-dot/github-pages-portfolio
