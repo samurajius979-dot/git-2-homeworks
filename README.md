@@ -1,41 +1,40 @@
 # Домашнее задание к лекции «Командная работа в Git & GitHub»
 
-Готовая работа для проверки. Все три обязательные задачи выполнены и опубликованы на GitHub.
+Это общий репозиторий со ссылками на все выполненные задачи.
 
 ## Задача №1. Импорт существующего проекта
 
-Репозиторий:  
-   https://github.com/samurajius979-dot/git-2-homeworks-import
+Репозиторий: https://github.com/samurajius979-dot/git-2-homeworks-import
 
 Что сделано:
 
-- проект перенесён в Git;
+- проект импортирован в Git;
 - добавлен `.gitignore`;
-- игнорируются `tmp/`, `*_old`, `*_backup`, `Thumbs.db`, `.DS_Store`;
+- проигнорированы `tmp/`, `*_old`, `*_backup`, `Thumbs.db`, `.DS_Store`;
 - лишние файлы не попали в репозиторий;
 - изменения отправлены на GitHub.
 
 ## Задача №2. Откат изменений
 
-Репозиторий:  
-   https://github.com/samurajius979-dot/git-2-homeworks-revert
+Репозиторий: https://github.com/samurajius979-dot/git-2-homeworks-revert
 
 Что сделано:
 
 - репозиторий склонирован;
 - последний ошибочный коммит отменён через `git revert`;
-- revert-коммит есть в истории;
 - результат отправлен на GitHub.
 
 ## Задача №3. Конфликт при push'е
 
-Репозиторий:  
-   https://github.com/samurajius979-dot/git-2-homeworks-fork
+Репозиторий: https://github.com/samurajius979-dot/git-2-homeworks-fork
 
 Что сделано:
 
-- локальный проект связан с удалённым репозиторием;
-- после неудачного `push` забраны изменения через `git pull`;
-- конфликт разрешён;
-- итоговый merge-коммит отправлен на GitHub.
+- локальный репозиторий связан с удалённым репозиторием;
+- после `git pull origin main` конфликт разрешён;
+- итоговые изменения отправлены на GitHub.
+
+## Ссылка для проверки
+
+https://github.com/samurajius979-dot/git-2-homeworks
 
